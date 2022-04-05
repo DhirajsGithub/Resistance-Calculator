@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Resistance-Calculator/static/css/main.b594f230.css",
+    "main.js": "/Resistance-Calculator/static/js/main.ad30ac6c.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Resistance-Calculator/static/js/787.28cb0dcd.chunk.js",
+    "static/media/6-band.png": "/Resistance-Calculator/static/media/6-band.cc9c831743abb474464b.png",
+    "index.html": "/Resistance-Calculator/index.html",
+    "main.b594f230.css.map": "/Resistance-Calculator/static/css/main.b594f230.css.map",
+    "main.ad30ac6c.js.map": "/Resistance-Calculator/static/js/main.ad30ac6c.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Resistance-Calculator/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b594f230.css",
+    "static/js/main.ad30ac6c.js"
+  ]
+}
